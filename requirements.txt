@@ -1,0 +1,8 @@
+emoji==2.0.0
+streamlit
+pandas
+matplotlib
+plotly
+wordcloud
+textblob
+datetime
