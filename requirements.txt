@@ -1,9 +1,7 @@
-emoji==2.0.0
 streamlit
 pandas
+numpy
 matplotlib
 plotly
-wordcloud
 textblob
-datetime
-gunicorn
+wordcloud
